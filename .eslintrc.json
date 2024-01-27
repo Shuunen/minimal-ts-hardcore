@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "hardcore",
+    "hardcore/ts"
+  ],
+  "parserOptions": {
+    "project": true
+  }
+}

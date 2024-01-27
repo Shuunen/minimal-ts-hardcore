@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-hardcore": "^45.2.0",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "lint": "eslint --ext .ts ."
+  }
+}
